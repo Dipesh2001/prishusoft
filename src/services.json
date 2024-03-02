@@ -1,0 +1,5 @@
+{
+  "login": "api/auth/login",
+  "getAllOrg": "api/Organization/getAllOrganization",
+  "addNewOrg": "api/Organization/addOrganization"
+}
